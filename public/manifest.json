@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD-LDrjTgzRvvWjU_GnpEos9sOJnq2ZHaU0rQrULtQELcbUgoIXrFAl7TioJzlx5TDAs&usqp=CAU",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1000logos.net/wp-content/uploads/2017/06/VISA-Logo-1992.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
