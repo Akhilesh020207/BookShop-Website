@@ -1,4 +1,4 @@
-Our main aim is to design such a book store where customer can visit our site anytime 
+Our main aim was to design such a book store where customer can visit our site anytime 
 of the day from anywhere to view the available books, choose any of them and can order by 
 paying online or can opt for cash on delivery as well. The administrator will regularly add any 
 new books available to them for sale. With the help of an online book store marketplace, users 
