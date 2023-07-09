@@ -1,3 +1,11 @@
+Our main aim is to design such a book store where customer can visit our site anytime 
+of the day from anywhere to view the available books, choose any of them and can order by 
+paying online or can opt for cash on delivery as well. The administrator will regularly add any 
+new books available to them for sale. With the help of an online book store marketplace, users 
+can simply make their accounts on the particular apps they want to use. By applying filters and 
+entering the author of the book they are looking for or a keyword, they get a variety of 
+suggestions. The administrator will take books from the reputed publishers and vendors only.
+
 ### This project has the following functionalities:
 
 #### 1) A Home page with product catalog
